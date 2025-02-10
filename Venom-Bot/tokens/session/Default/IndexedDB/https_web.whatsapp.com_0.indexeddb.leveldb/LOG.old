@@ -1,0 +1,36 @@
+2025/02/11-00:10:02.258 3964 Reusing MANIFEST D:\Website-Projects\Whatsapp-Message-automation\Venom-Bot\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/11-00:10:02.260 3964 Recovering log #836
+2025/02/11-00:10:02.293 3964 Reusing old log D:\Website-Projects\Whatsapp-Message-automation\Venom-Bot\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000836.log 
+2025/02/11-00:10:05.301 3ae0 Level-0 table #851: started
+2025/02/11-00:10:05.319 3ae0 Level-0 table #851: 321979 bytes OK
+2025/02/11-00:10:05.321 3ae0 Delete type=0 #836
+2025/02/11-00:10:05.322 3ae0 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at '\x00'\x00\x00\x05' @ 2687044 : 1
+2025/02/11-00:10:05.322 3ae0 Compacting 1@0 + 1@1 files
+2025/02/11-00:10:05.353 3ae0 Generated table #852@0: 7007 keys, 143891 bytes
+2025/02/11-00:10:05.364 3ae0 Generated table #853@0: 507 keys, 12036 bytes
+2025/02/11-00:10:05.364 3ae0 Compacted 1@0 + 1@1 files => 155927 bytes
+2025/02/11-00:10:05.365 3ae0 compacted to: files[ 0 2 20 0 0 0 0 ]
+2025/02/11-00:10:05.366 3ae0 Delete type=2 #851
+2025/02/11-00:10:05.366 3ae0 Manual compaction at level-0 from '\x00'\x00\x00\x05' @ 2687044 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/11-00:10:10.787 3ae0 Compacting 1@1 + 8@2 files
+2025/02/11-00:10:11.025 3ae0 Generated table #854@1: 50212 keys, 2206995 bytes
+2025/02/11-00:10:11.189 3ae0 Generated table #855@1: 40745 keys, 2200177 bytes
+2025/02/11-00:10:11.260 3ae0 Generated table #856@1: 1388 keys, 2139958 bytes
+2025/02/11-00:10:11.358 3ae0 Generated table #857@1: 2055 keys, 2145698 bytes
+2025/02/11-00:10:11.423 3ae0 Generated table #858@1: 2728 keys, 2154630 bytes
+2025/02/11-00:10:11.556 3ae0 Generated table #859@1: 10096 keys, 2174862 bytes
+2025/02/11-00:10:11.727 3ae0 Generated table #860@1: 27273 keys, 2270040 bytes
+2025/02/11-00:10:11.865 3ae0 Generated table #861@1: 27372 keys, 2221333 bytes
+2025/02/11-00:10:11.868 3ae0 Generated table #862@1: 48 keys, 38455 bytes
+2025/02/11-00:10:11.868 3ae0 Compacted 1@1 + 8@2 files => 17552148 bytes
+2025/02/11-00:10:11.871 3ae0 compacted to: files[ 0 1 21 0 0 0 0 ]
+2025/02/11-00:10:11.872 3ae0 Delete type=2 #839
+2025/02/11-00:10:11.873 3ae0 Delete type=2 #840
+2025/02/11-00:10:11.873 3ae0 Delete type=2 #841
+2025/02/11-00:10:11.873 3ae0 Delete type=2 #842
+2025/02/11-00:10:11.873 3ae0 Delete type=2 #843
+2025/02/11-00:10:11.873 3ae0 Delete type=2 #844
+2025/02/11-00:10:11.873 3ae0 Delete type=2 #845
+2025/02/11-00:10:11.873 3ae0 Delete type=2 #846
+2025/02/11-00:10:11.874 3ae0 Delete type=2 #847
+2025/02/11-00:10:11.874 3ae0 Delete type=2 #852

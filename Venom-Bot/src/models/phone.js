@@ -1,13 +1,9 @@
+// src/models/phone.js
 const mongoose = require('mongoose');
 
-const studentSchema = new mongoose.Schema({
-    mobileNo: {
-        type: String,
-        required: true,
-        unique: true,
-        match: [/^[0-9]{10,15}$/, 'Invalid mobile number']
-    }
-}, { timestamps: true });
+const phoneSchema = new mongoose.Schema({
+    Name: { type: String, required: true },
+    PhoneNumber: { type: String, required: true }
+});
 
-const Student = mongoose.model('Student', studentSchema);
-module.exports = Student;
+module.exports = mongoose.model('Student', phoneSchema, 'phone'); // Ensure the model name is 'Phone'
